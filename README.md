@@ -7,6 +7,4 @@ Team ID: PNT2022TMID26875
 
 Team Leader: APPURAJ B
 
-Team Members: PRATHIPRAJAN J
-              NASMITHA P
-              YOGAPRIYA V
+Team Members: PRATHIPRAJAN J , NASMITHA P , YOGAPRIYA V
